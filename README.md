@@ -2,3 +2,4 @@
 dataScience Exam at 14-May-25 part b
 * question2: Data Analysis(3,6) 
 * question2: Graphs(3,6)
+* Question 1: research
